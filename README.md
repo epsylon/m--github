@@ -14,7 +14,7 @@ I will never support directly (and I will fight to never support it indirectly) 
 
 Thanks to all Github's workers that have supported it during this years. ;-)
 
-And <u>a lot of love</u> for the directives that have taken this desition, I hope that some of you enjoy your new houses, cars and so on... Now you probably will understand better latest DDoS you recieved (biggest on the Internet's history).
+And <u>a lot of love</u> for the directives that have taken this desition, I hope that some of you enjoy your new houses, cars and so on... Now you probably will understand better latest DDoS (mem-cached dummy style) you recieved (biggest on the Internet's history).
 
 Some kind of "divine justice" will be always with you, from here. >)
 
