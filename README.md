@@ -22,4 +22,6 @@ And don't worry about us, we will try to keep spreading knowledge, freedom and c
 
 #GoodByeGithub 
 
+https://twitter.com/hashtag/goodbyegithub?f=tweets&vertical=default&src=hash
+
 / 2018 - psy (https://03c8.net)
