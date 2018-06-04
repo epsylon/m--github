@@ -24,11 +24,9 @@ And don't worry about us, we will try to keep spreading knowledge, freedom and c
 
 https://twitter.com/hashtag/goodbyegithub?f=tweets&vertical=default&src=hash
 
----
 https://www.fsf.org/blogs/licensing/do-githubs-updated-terms-of-service-conflict-with-copyleft
 https://www.mirbsd.org/permalinks/wlog-10_e20170301-tg.htm
 http://joeyh.name/blog/entry/removing_everything_from_github/
 http://joeyh.name/blog/entry/what_I_would_ask_my_lawyers_about_the_new_Github_TOS/
----
 
 / 2018 - psy (https://03c8.net)
