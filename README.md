@@ -33,3 +33,6 @@ http://joeyh.name/blog/entry/removing_everything_from_github/
 http://joeyh.name/blog/entry/what_I_would_ask_my_lawyers_about_the_new_Github_TOS/
 
 / 2018 - psy (https://03c8.net)
+
+D.P: Dramatization: https://www.youtube.com/watch?v=IY2j_GPIqRA
+
