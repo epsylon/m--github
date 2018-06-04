@@ -1,10 +1,12 @@
 Hi,
 
-Because Github has sold company to Micro$oft, I have decided to <s>remove</s> freeze all my content (and this account).  
+Because Github has sold company to Micro$oft, I have decided to <s>remove</s> freeze all my content (and this account):
+
+https://blog.github.com/2018-06-04-github-microsoft/  
 
 I will advice you about new code source to reach my projects during next days.
 
-Btw, try this: https://code.03c8.net
+Btw, some other platform will be ready soon here: https://code.03c8.net
 
 My efforts on to have a better place for all will be always free as I am free to decide where and how my code is spread. 
 
