@@ -34,5 +34,8 @@ http://joeyh.name/blog/entry/what_I_would_ask_my_lawyers_about_the_new_Github_TO
 
 / 2018 - psy (https://03c8.net)
 
+------------------------------
+
 D.P: Dramatization: https://www.youtube.com/watch?v=IY2j_GPIqRA
 
+EXTRA: "CVE-2018-11235 git RCE": https://staaldraad.github.io/post/2018-06-03-cve-2018-11235-git-rce/
