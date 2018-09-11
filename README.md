@@ -6,7 +6,9 @@ https://blog.github.com/2018-06-04-github-microsoft/
 
 I will advice you about new code source to reach my projects during next days.
 
-Btw, some other platform will be ready soon here: https://code.03c8.net
+<s>Btw, some other platform will be ready soon here: https://code.03c8.net</s>
+
+A new platform is ready here: https://code.03c8.net/epsylon
 
 My efforts on to have a better place for all will be always free as I am free to decide where and how my code is spread. 
 
